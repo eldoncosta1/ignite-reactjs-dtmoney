@@ -7,3 +7,12 @@
 - Context API
 - Hooks
 - Axios
+
+### Consumindo API
+
+- Criando front-end sem back-end
+- Configurando MirageJS
+- Configurando cliente do Axios
+
+
+### Configurando modal de criação
